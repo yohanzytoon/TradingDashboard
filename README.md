@@ -168,11 +168,5 @@ Docker configuration is provided for easy deployment:
 docker-compose up -d
 ```
 
-### Manual Deployment
-For manual deployment:
-
-1. Set up MongoDB on your server
-2. Deploy the backend Node.js application
-3. Deploy the ML service Python application
-4. Build and deploy the React frontend
+### Project is incomplete, still have some bugs to fix. 
 
